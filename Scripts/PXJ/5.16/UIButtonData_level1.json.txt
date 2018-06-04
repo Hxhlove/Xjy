@@ -1,0 +1,22 @@
+[
+{"BnPrefabPath":"UIRes/Prefab/MainPanel/Level1Bn",
+ "BnNormalImgPath":"UIRes/Sprite/MainPanel/level1Bn0",
+ "BnPressedImgPath":"UIRes/Sprite/MainPanel/level1Bn1",
+ "BnID":"0",
+ "BnText":"区位规划",
+ "BnSpacing":"Vector3(0,0,0)",
+ "BnPosition":"Vector3(0,0,0)",
+ "BnOnClick":"UIButtonData_level2.json"
+},
+
+{"BnPrefabPath":"UIRes/Prefab/MainPanel/Level1Bn",
+ "BnNormalImgPath":"UIRes/Sprite/MainPanel/level1Bn0",
+ "BnPressedImgPath":"UIRes/Sprite/MainPanel/level1Bn1", 
+ "BnID":"1",
+ "BnText":"区位沙盘",
+ "BnSpacing":"Vector3(0,0,0)",
+ "BnPosition":"Vector3(0,0,0)",
+ "BnOnClick":"点击执行"
+}
+
+]

@@ -1,0 +1,33 @@
+[
+{"BnPrefabPath":"UIRes/Prefab/MainPanel/Level2Bn",
+ "BnNormalImgPath":"UIRes/Sprite/MainPanel/level2Bn0",
+ "BnPressedImgPath":"UIRes/Sprite/MainPanel/level2Bn1",
+ "BnID":"0",
+ "BnText":"区位发展",
+ "BnSpacing":"5,5",
+ "BnPosition":"0,0,0"
+ "BnOnClick":"二级1"
+},
+
+{"BnPrefabPath":"UIRes/Prefab/MainPanel/Level2Bn",
+ "BnNormalImgPath":"UIRes/Sprite/MainPanel/level2Bn0",
+ "BnPressedImgPath":"UIRes/Sprite/MainPanel/level2Bn1",
+
+
+ "BnID":"1",
+ "BnText":"区位交通",
+ "BnSpacing":"0,-5",
+ "BnPosition":"0,0,0"
+ "BnOnClick":"二级2"
+},
+{"BnPrefabPath":"UIRes/Prefab/MainPanel/Level2Bn",
+ "BnNormalImgPath":"UIRes/Sprite/MainPanel/level2Bn0",
+ "BnPressedImgPath":"UIRes/Sprite/MainPanel/level2Bn1",
+ "BnID":"2",
+ "BnText":"外部配套",
+ "BnSpacing":"0,-5",
+ "BnPosition":"0,0,0"
+ "BnOnClick":"二级3"
+}
+
+]
